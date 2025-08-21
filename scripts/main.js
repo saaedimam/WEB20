@@ -1,1 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => { console.log('KTL site loaded'); });
+// Placeholder JS for forms, interactions, etc.
+document.addEventListener('DOMContentLoaded', () => {
+  console.log('KTL site loaded');
+});
